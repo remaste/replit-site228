@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-image: url(https://replit.com/public/images/ogBanner.png);
+  background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+  
+}
+b{
+  color: red;
+}
+h1{
+  color: #ff0000;
+  background-color: #008071;
+}
+.test{
+  background-color: #008071;
+  width: 1000px;
+  margin: 750px;
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+  color: white;
+}
+.box{
+  background-color: orange;
+  height: 20px;
+  width:  65px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.video{
+  
+}
+.pon{
+  height: 500px;
+  width:  500px;
+}
